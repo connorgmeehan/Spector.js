@@ -11,6 +11,7 @@
   ],
   "readme": "documentation/standaloneVersion.md",
   "main": "dist/spector.bundle.js",
+  "types": "dist/spector.d.ts",
   "files": [
     "dist/spector.bundle.js"
   ],
